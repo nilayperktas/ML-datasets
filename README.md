@@ -65,3 +65,9 @@ The project includes:
 ## Reproducibility
 
 Random seeds 42, 52 and 62 are used for the experiments. The same fixed Test Set is preserved across seeds for each dataset.
+
+## Project Links
+
+GitHub Repository: https://github.com/nilayperktas/ML-datasets
+
+Video Walkthrough: https://youtu.be/wrGKTAP3cp0
