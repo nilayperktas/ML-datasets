@@ -1,0 +1,23 @@
+Dataset;Config_id;algorithm;repr;parameter;val_acc_mean;val_mac_f1_mean
+Wine;KNN_k_11_Scaled;KNN;Scaled;11;0,9815;0,9814
+Wine;KNN_k_5_Scaled;KNN;Scaled;5;0,9815;0,9814
+Wine;KNN_k_7_Scaled;KNN;Scaled;7;0,9815;0,9814
+Wine;KNN_k_1_Scaled;KNN;Scaled;1;0,9630;0,9658
+Wine;GNB_default_Scaled;GaussianNB;Scaled;Default;0,9630;0,9638
+Wine;GNB_default_Unscaled;GaussianNB;Unscaled;Default;0,9630;0,9638
+Wine;DT_depth_10_Scaled;Decision Tree;Scaled;10;0,9444;0,9462
+Wine;DT_depth_10_Unscaled;Decision Tree;Unscaled;10;0,9444;0,9462
+Wine;DT_depth_3_Scaled;Decision Tree;Scaled;3;0,9444;0,9462
+Wine;DT_depth_3_Unscaled;Decision Tree;Unscaled;3;0,9444;0,9462
+Wine;DT_depth_5_Scaled;Decision Tree;Scaled;5;0,9444;0,9462
+Wine;DT_depth_5_Unscaled;Decision Tree;Unscaled;5;0,9444;0,9462
+Wine;DT_depth_None_Scaled;Decision Tree;Scaled;None;0,9444;0,9462
+Wine;DT_depth_None_Unscaled;Decision Tree;Unscaled;None;0,9444;0,9462
+Wine;KNN_k_3_Scaled;KNN;Scaled;3;0,9444;0,9457
+Wine;DT_depth_2_Scaled;Decision Tree;Scaled;2;0,8519;0,8481
+Wine;DT_depth_2_Unscaled;Decision Tree;Unscaled;2;0,8519;0,8481
+Wine;KNN_k_1_Unscaled;KNN;Unscaled;1;0,7037;0,6714
+Wine;KNN_k_5_Unscaled;KNN;Unscaled;5;0,7037;0,6667
+Wine;KNN_k_3_Unscaled;KNN;Unscaled;3;0,6667;0,6456
+Wine;KNN_k_7_Unscaled;KNN;Unscaled;7;0,6667;0,6356
+Wine;KNN_k_11_Unscaled;KNN;Unscaled;11;0,6296;0,6005

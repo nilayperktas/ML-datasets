@@ -1,0 +1,3 @@
+dataset,representation,seed,n_clusters,test_ari,test_silhouette,cluster_0_count,cluster_1_count,cluster_2_count
+Wine,Unscaled,42,3,0.3733228463033219,0.49288000001742016,14,10,12
+Wine,Scaled,42,3,0.9087939960390535,0.27111968980089896,13,13,10
